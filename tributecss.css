@@ -1,0 +1,29 @@
+#main {
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+  line-height: 3;
+  font-family: "Barlow Condensed";
+  font-size: 18px;
+}
+
+#image {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+#tribute-info {
+  background-color: #dadde3;
+  padding: 20px;
+  color: black;
+  text-align: left;
+  margin: 30px;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: "Barlow Condensed";
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
